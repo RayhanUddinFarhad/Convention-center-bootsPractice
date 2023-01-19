@@ -39,7 +39,7 @@ a {
 
 .btn-book {
 
-    width: 100;
+    width: 168px;
 
 
     color: #3F87F5;
@@ -47,6 +47,7 @@ a {
     padding: 10px;
     border-radius: 10px;
     outline: none;
+    border: 0;
 }
 
 
