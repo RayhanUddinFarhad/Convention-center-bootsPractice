@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Sniglet:wght@400;800&family=Work+Sans:wght@600&display=swap');
+
+
+*{
+
+    font-family: 'Poppins', sans-serif;
+}
+
+
+a {
+    font-size: 15px;
+}
+
+
+
+
+.banner{
+
+}
+
+.card-body, .comment p{
+
+    color: #848199;
+    font-size: 13px;
+
+
+
+
+}
+
+
+
+.card-body, .card-body-1 h5 {
+
+    padding: 20px 0;
+
+
+}
+
+.btn-book {
+
+    width: 100;
+
+
+    color: #3F87F5;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+}
+
+
